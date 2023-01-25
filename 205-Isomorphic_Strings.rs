@@ -1,4 +1,4 @@
-// LeetCode 392. Is Subsequence
+// LeetCode 205. Isomorphic Strings
 use std::collections::HashMap;
 impl Solution {
     pub fn is_isomorphic(s: String, t: String) -> bool {
